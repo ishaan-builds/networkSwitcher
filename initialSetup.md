@@ -6,7 +6,7 @@ This process will work on either a 32 or 64 bit installation of Windows 10 (othe
 2) In the "View by" option at the top right of the page, ensure that the "Large Icons" option is selected;
 3) Select "Network and Sharing Center";
 4) In the sidebar located at the left of the page, click "Change adapter settings";
-5) Seeing the multiple network interfaces on your system, it may be necessary to check which ones are your two ethernet interfaces if it is not immediately clear. this is because this page can become cluttered when multiple VPN applications or other network interfaces like WI-FI cards are installed. 
+5) Seeing the multiple network interfaces on your system, it may be necessary to check which ones are your two ethernet interfaces, if it is not immediately clear. It's because this page can become cluttered when multiple VPN applications or other network interfaces like WI-FI cards are installed. 
     Any interface that is manually enabled will have a blue icon, and any interface that is manually disabled will have a greyscale logo, and any port that is not currently connected to the internet will have a red "X" on the logo. Using this information, you can enable all of your network interfaces by right-clicking on them and selecting the first option in the list, which will show "Enable" if the interface is disabled and vise-versa.
     Then, you can see which ports are your two ethernet ports, as when you plug and unplug each cable from your pc, the red "X" on its logo will appear and disappear.
 6) Once the two ports have been identified, right-click on one of them and select the "Rename" option, and rename it to "Network1" (With this exact capitalization and spacing, or lack thereof), and rename the second to "Network2".
